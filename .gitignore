@@ -1,0 +1,5 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+app/Http/Controllers/UsuariosController.php

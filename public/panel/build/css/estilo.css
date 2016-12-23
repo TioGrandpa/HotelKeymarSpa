@@ -1,0 +1,27 @@
+
+.container-block
+{
+    margin:50px auto;
+    /*border-style: solid;
+    border-color:black;
+    border-radius:1em;*/
+    text-align:center;
+    border-collapse: separate;
+    border-spacing:  100px 0px;
+}
+.container-left
+{
+    border-style: solid;
+    border-color:black;
+    border-radius:1em;
+    width:450px;
+    margin:20px auto;
+    display:block;
+}
+.parrafo
+{
+    font-size:15px;
+    font-family: 'Times New Roman', Times, serif;
+    margin:15px;
+    align-content:inherit;
+}
